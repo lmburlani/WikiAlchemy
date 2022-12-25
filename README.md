@@ -18,7 +18,7 @@ Instalação
 Para instalar o WikiAlchemy, basta clonar o repositório do Github e instalar as dependências usando o pip:
  
  ```
- git clone https://github.com/seu-usuario/WikiAlchemy.git
+ git clone https://github.com/lmburlani/WikiAlchemy
 cd WikiAlchemy
 pip install -r requirements.txt
  ```

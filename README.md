@@ -32,7 +32,7 @@ Para usar o WikiAlchemy, basta seguir os seguintes passos:
  engine = create_engine("postgresql://user:password@localhost:5432/database")
  ```
  
- 2.Chame a função preprocessar_dados_wikipedia() passando a URL da página da Wikipedia que deseja extrair:
+ 2. Chame a função preprocessar_dados_wikipedia() passando a URL da página da Wikipedia que deseja extrair:
  
  ```
  url_pagina = "https://pt.wikipedia.org/wiki/Lista_de_fil%C3%B3sofos"
